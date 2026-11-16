@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFi Data Controller</string>
+    <string name="module_description">Turns mobile data off when Wi-Fi connects and back on when Wi-Fi disconnects.</string>
+    <string name="prototype_notice">Mobile data turns off while Wi-Fi is connected and turns on when Wi-Fi disconnects.</string>
+</resources>
